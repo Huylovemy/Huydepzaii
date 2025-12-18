@@ -1,4 +1,4 @@
-local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
+local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/Huylovemy/Zzz/refs/heads/main/File"))();
 local v15 = v14:CreateWindow({
     Title = "Bear Hub [Premium ]",-- thay tên bạn muốn đặt
     SubTitle = "By Quang Huy",-- tên bạn
