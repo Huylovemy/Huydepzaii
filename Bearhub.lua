@@ -1,4 +1,4 @@
-local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
+local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/Huylovemy/Huydepzaii/refs/heads/main/main.lua"))();
 local v15 = v14:CreateWindow({
     Title = "Bear Hub [Beta]",
     SubTitle = "By Quang Huy",
@@ -9021,5 +9021,6 @@ spawn(function()
         end
     end
 end);
+
 
 
